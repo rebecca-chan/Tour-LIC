@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Visit LIC</string>
+    <string name="details_activity">Details</string>
+
+    <!-- Image descriptions -->
+    <string name="image_description">LIC image</string>
+    <string name="image_background_description">Background for opaque image</string>
+
+    <!-- Sights Fragment -->
+    <string name="pepsicola_name">PepsiCola Sign</string>
+    <string name="pepsicola_detail">Landmark left PepsiCo plant which closed in 1999</string>
+    <string name="pepsicola_description">The Pepsi-Cola sign in Long Island City — a dazzling swirl of red curlicue letters that evokes innocent days of summer, heavy industry in Queens and a spectacular disregard for the waterfront in the mid-20th century — is now an official New York City landmark.</string>
+    <string name="pepsicola_location">4610 Center Blvd, Long Island City, NY 11109</string>
+
+    <string name="ps1_name">MoMa PS1</string>
+    <string name="ps1_detail">MoMA PS1 is one of the oldest and largest nonprofit contemporary art institutions in the United States.</string>
+    <string name="ps1_description">MoMA PS1 is one of the largest art institutions in the United States dedicated solely to contemporary art. It is located in the Long Island City neighborhood in the borough of Queens, New York City. In addition to its exhibitions, the institution also organizes the Sunday Sessions performance series, the Warm Up summer music series, and the Young Architects Program with the Museum of Modern Art. MoMA PS1 has been affiliated with the Museum of Modern Art since January 2000 and, as of 2013, attracts about 200,000 visitors a year.</string>
+    <string name="ps1_location">22-25 Jackson Ave, Long Island City, NY 11101</string>
+
+    <string name="noguchi_name">Noguchi Museum</string>
+    <string name="noguchi_detail">Founded and designed by American artist Isamu Noguchi (1904–1988), for the display of what he considered to be representative examples of his life’s work.</string>
+    <string name="noguchi_description">The Noguchi Museum, chartered as The Isamu Noguchi Foundation and Garden Museum, was designed and created by the Japanese-American sculptor Isamu Noguchi. Opening on a limited basis to the public in 1985 the purpose of the museum and foundation was and remains to preserve and display Noguchi\'s sculptures, architectural models, stage designs, drawings, and furniture designs. The two-story, 24,000 square feet (2,200 m2) museum and adjacent sculpture garden, located in Long Island City section of Queens, one block from the Socrates Sculpture Park, underwent major renovations in 2004 allowing the museum to stay open year-round.</string>
+    <string name="noguchi_location">9-01 33rd Rd, Queens, NY 11106</string>
+
+    <!-- Fun Activities Fragment -->
+    <string name="brooklynboulders_name">Brooklyn Boulders Queensbridge</string>
+    <string name="brooklynboulders_detail">Rock Climbing Gym</string>
+    <string name="brooklynboulders_description">Brooklyn Boulders Queensbridge is an urban rock climbing facility that merges fitness with art, music, tech, co-working and events in Long Island City.</string>
+    <string name="brooklynboulders_location">23-10 41st Ave, Long Island City, NY 11101</string>
+
+    <string name="cliffs_name">Cliffs</string>
+    <string name="cliffs_detail">Large, colorful rock-climbing gym offering multiple faces and a rappel tower for adults and kids.</string>
+    <string name="cliffs_description">Welcome to The Cliffs at LIC, NYC\'s premier indoor rock climbing facility! Whether you\'re trying out climbing for the first time or looking for new training grounds, The Cliffs has something to get you psyched on this dynamic + exciting sport.</string>
+    <string name="cliffs_location">11-11 44th Dr, Long Island City, NY 11101</string>
+
+    <string name="gutter_name">Gutter</string>
+    <string name="gutter_detail">Old-school bowling alley with an attached barroom that hosts live music.</string>
+    <string name="gutter_description">“Bring your best Lebowski moves” to these “old-school” Williamsburg and Long Island City bowling alleys that combines “retro” lanes with a dive bar dispensing “affordable pitchers”; the facilities may be in “serious disrepair” and the “balls look like they were found in a Dumpster”, but the “chill crowds” still roll in since it\'s got “character.”
+    </string>
+    <string name="gutter_location">10-22 46th Ave, Long Island City, NY 11101</string>
+
+    <!-- Parks Fragment -->
+    <string name="gantry_name">Gantry State Park</string>
+    <string name="gantry_detail">Gantry Plaza State Park is a 12-acre riverside oasis that boasts spectacular views of the midtown Manhattan skyline, including the Empire State Building and the United Nations. </string>
+    <string name="gantry_description">Enjoy a relaxing stroll along the park\'s four piers or through the park\'s manicured gardens and unique mist fountain. Along the way take a moment to admire the rugged beauty of the park\'s centerpieces - restored gantries. These industrial monuments were once used to load and unload rail car floats and barges; today they are striking reminders of our waterfront\'s past. With the city skyline as a backdrop and the gantries as a stage, the park\'s plaza is a wonderful place to enjoy a spring or summer concert. Recreational facilities include basketball courts, playgrounds, handball courts, and a fishing pier with its own cleaning table.</string>
+    <string name="gantry_location"> 4-09 47th Rd, Long Island City, NY 10007</string>
+
+    <string name="hunterspoint_name">Hunters Point South Park</string>
+    <string name="hunterspoint_detail">Popular urban park offers a waterfront promenade, green space, playground, dog run and cafe plaza.</string>
+    <string name="hunterspoint_description">This waterfront park was until recently an abandoned post-industrial area in Long Island City. Transformed into a space that offers fun and relaxation for everyone in the area, the new park includes a central green, playgrounds, adult fitness equipment a dog run, a bikeway, a waterside promenade, picnic terraces a basketball court, a 30-foot-tall cantilevered platform for viewing the skyline and waterfront, and a 13,000 square foot pavilion that contains comfort stations, concessions, and an elevated cafe plaza.</string>
+    <string name="hunterspoint_location">Center Blvd, Long Island City, NY 11101</string>
+
+    <string name="socrates_name">Socrates Park</string>
+    <string name="socrates_detail">Outdoor museum and public park where artists can create and exhibit sculptures and multi-media installations.</string>
+    <string name="socrates_description">In 1986, American sculptor Mark di Suvero created Socrates Sculpture Park on an abandoned landfill and illegal dumpsite in Long Island City. The four acre site is the largest outdoor space in New York City dedicated to exhibiting sculpture. The former landfill was renovated into the current park by a team of contemporary artists and local youths</string>
+    <string name="socrates_location">32-01 Vernon Blvd, Long Island City, NY 11106</string>
+
+    <!-- Restaurants Fragment -->
+    <string name="slice_name">Slice Pizzeria</string>
+    <string name="slice_detail">NY pizza by the slice</string>
+    <string name="slice_description">Slick, informal haunt with a patio offering classic and Sicilian slices and other Italian bites.</string>
+    <string name="slice_location">48-11 Vernon Blvd, Long Island City, NY 11101</string>
+
+    <string name="blend_name">Blend on the Water</string>
+    <string name="blend_detail">Latin food with a view</string>
+    <string name="blend_description">Modern restaurant and lounge featuring cocktails, gourmet Latin-inspired eats and expansive water views.</string>
+    <string name="blend_location">4540 Center Blvd, Long Island City, NY 11109</string>
+
+    <string name="mu_name">Mu Ramen</string>
+    <string name="mu_detail">Ny Style Ramen</string>
+    <string name="mu_description">Brick-walled spot for Japanese noodles and appetizers by a Per Se vet, plus beer, wine and sake.</string>
+    <string name="mu_location">1209 Jackson Ave, Long Island City, NY 11101</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
