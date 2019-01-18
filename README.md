@@ -1,4 +1,4 @@
-# TourGuideApp
+# Tour LIC
 Tour Guide App of Long Island City, NY!
 
 Built for API 15 or higher
