@@ -1,7 +1,10 @@
-# Tour LIC
+# Visit LIC
 Tour Guide App of Long Island City, NY!
 
 Built for API 15 or higher
+
+Video walkthrough:
+https://youtu.be/NFsvb4ta0Rs
 
 2 activities: MainActivity and DetailsActivity
 
